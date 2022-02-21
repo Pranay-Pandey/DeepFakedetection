@@ -1,4 +1,4 @@
-# DeepFakedetection
+# Deep-Fake detection
 
 This Model takes a video as input and predicts if the video is fake.
 The prediction is only based on the first frame of the video.
